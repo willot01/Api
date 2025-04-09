@@ -1,0 +1,6 @@
+@NICASHOP_HostAddress = http://localhost:5192
+
+GET {{NICASHOP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
